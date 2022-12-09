@@ -87,6 +87,12 @@ communication, and teaching skills
 * Supervised 10+ rehabilitation centers for small and large cities to help to connect people with resources to make long-term changes
 * Collaborated with 7 local non-profits to organize volunteers for food and clothing drives to distribute to those in need
 
+
+## Skills
+
+You should a list of your skills
+
+
 <!-- ### Footer
 
 Last updated: 12/08/2022 -->
