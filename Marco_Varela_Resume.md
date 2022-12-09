@@ -3,6 +3,8 @@ layout: cv
 title: Marco Varela
 ---
 
+# Marco Varela
+
 Software Engineer, Data Scientist, Database Developer.
 
 <div id="webaddress">
